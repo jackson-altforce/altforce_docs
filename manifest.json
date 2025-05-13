@@ -1,0 +1,25 @@
+{
+    "name": "My Docusaurus Site",
+    "short_name": "Docusaurus",
+    "theme_color": "#2196f3",
+    "background_color": "#424242",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "./index.html",
+    "icons": [
+      {
+        "src": "img/docusaurus.png",
+        "sizes": "200x200",
+        "type": "image/png"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "img/Screenshot1.png",
+        "sizes": "1896x905",
+        "type": "image/png",
+        "form_factor": "wide"
+      }
+    ]
+  }
+  
